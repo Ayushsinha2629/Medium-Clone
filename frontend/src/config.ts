@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://medium-clone-zaftor.workers.dev"
+export const BACKEND_URL = "https://week-13-offline.medium-clone-zaftor.workers.dev"
